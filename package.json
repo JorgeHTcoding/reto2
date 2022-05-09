@@ -1,0 +1,11 @@
+{
+  "name": "reto-2.3",
+  "version": "1.0.0",
+  "description": "En primer lugar creamos la carpeta destino en la cual copiaremos los documentos de código que queremos usar para crear el repositorio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
